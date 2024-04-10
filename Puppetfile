@@ -8,7 +8,7 @@ forge 'https://forge.puppet.com'
 
 # Modules from Git
 # Examples: https://github.com/puppetlabs/r10k/blob/master/doc/puppetfile.mkd#examples
-mod 'helix_core_management ',
+mod 'helix_core_management',
   git:    'https://github.com/16c7x/helix_core_management.git',
   branch: 'main'
 
